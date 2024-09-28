@@ -1,22 +1,18 @@
-### How to setup node js you tube video downloader
-
-kill specific port using npm
-
-npx kill-port 3000
+### How to setup Node JS YouTuve video downloader
 
 1. git clone https://github.com/devashishkumar/youtube-video-downloader.git
 
 2. npm install
 
-3. nodemon start
+3. nodemon start OR npm start
 
 4. open localhost:3000
 
-5. paste valid youtube video url in input box
+5. paste valid YouTube video url in input box
 
 6. click on Click Me Button
 
-7. Select format you want to download
+7. Select Format you want to download
 
 ## Application View
 
@@ -24,4 +20,4 @@ npx kill-port 3000
 
 ### Known issues:
 
-Currently sd videos are downloading even after HD format selection. Currently work on to fix this issue
+Currently SD videos are downloading even after HD format selection, Working on this issue
