@@ -1,0 +1,12 @@
+<form #myForm="ngForm" (ngSubmit)="getVideoDetails()">
+  <p>
+    <label>Video URL:</label>
+    <input type="text" autocomplete="off" name="url" [(ngModel)]="formData.url" required>
+  </p>
+  
+  <p>
+    <button type="submit" name="submit" [disabled]="!myForm.valid">Submit</button>
+  </p>
+</form>
+
+<router-outlet></router-outlet>
