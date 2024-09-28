@@ -1,4 +1,4 @@
-### How to setup Node JS YouTuve video downloader
+## How to setup Node JS YouTuve video downloader
 
 1. git clone https://github.com/devashishkumar/youtube-video-downloader.git
 
@@ -14,10 +14,10 @@
 
 7. Select Format you want to download
 
-## Application View
+### Application View
 
 ![app-view](https://github.com/user-attachments/assets/285a2fb1-c107-4971-abdd-014203502638)
 
-### Known issues:
+## Known issues:
 
-Currently SD videos are downloading even after HD format selection, Working on this issue
+Currently SD videos are downloading even after HD format selection, working on this issue
