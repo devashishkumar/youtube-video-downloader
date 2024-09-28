@@ -18,6 +18,10 @@
 
 ![app-view](https://github.com/user-attachments/assets/285a2fb1-c107-4971-abdd-014203502638)
 
-## Known issues:
+![app-view2](https://github.com/user-attachments/assets/20ef78d2-a156-46a7-a1a4-9961ea621f36)
+
+![app](https://github.com/user-attachments/assets/058ec913-f0e1-433f-a21c-cd38ea132930)
+
+## Issues:
 
 Currently SD videos are downloading even after HD format selection, working on this issue
